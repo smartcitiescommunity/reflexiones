@@ -5,6 +5,8 @@ Es necesario combatir la corrupción y la ausencia de etica en el sector públic
 
 Antes de llegara puntos de no retorno es importante apelar a la responsabilidad moral y la responsabilidad etica de cada  ciudadano en el mundo y preguntarles si estan haciendo lo correcto por ellos, por quienes les rodean y por la aldea global en la que viven. No obstante existen preocupaciones legitimas de los ciudadanos tales como: 
 
+-- `Los gobiernos habilitan a sus ciudadania a hacer uso de plataformas que permiten direccionar los esfuerzos y recursos públicos en lo que considern mś importnte para ellos?`
+
 -- `En cada territorio del mundo sus lideres y gobernantes resuelven sus necesidades y retos sociales de la mejor forma posible, con las personas mas preparadas e idoneas para sus roles y de una manera abierta y transparente?`
 
 -- `Los gobiernos hacen un correcto uso del impuesto que se cobra y este se distribuye, invierte o gasta correctamente?`
