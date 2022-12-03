@@ -1,4 +1,4 @@
-# reflexiones
+# Reflexiones
 Reflexiones sobre la situación actual de las ciudades y el mundo
 
 Es necesario combatir la corrupción y la ausencia de etica en el sector público y privado. Pues la consecuencia es un mundo que enfrenta actualmente entre muchas crisis los problemas y retos a nivel institucional, climático, politico con profundas divisiones sociales y por ultimo pero no menos importante una crisis etica. Esta puede ser percibida desde avances tecnologicos tan recientes como la inteligencia artificial o profesiones tan arcanas como los politicos y la función pública.
